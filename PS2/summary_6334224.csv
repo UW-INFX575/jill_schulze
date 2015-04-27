@@ -1,0 +1,637 @@
+,0
+oper,3
+control,2
+rotat,6
+stream,8
+wall,3
+opposit,2
+within,1
+one,1
+respect,2
+hole,2
+select,5
+concentr,2
+inlet,4
+jet,16
+commun,2
+configur,7
+",",10
+.,24
+attach,1
+2,1
+4,1
+6,1
+8,1
+non-rotat,1
+whirlpool,12
+rel,2
+lug,2
+fluid,2
+~~,1
+Venturi,1
+spin,1
+11,1
+10,1
+12,1
+recit,10
+nozzl,19
+hous,2
+remov,6
+stationari,3
+cant,2
+air,10
+separ,1
+adjust,2
+mode,2
+compris,9
+water-hold,3
+posit,1
+mean,4
+apertur,9
+claim,10
+articulat,3
+engag,6
+eyebal,4
+respons,1
+direct,7
+second,2
+manner,1
+pass,1
+orient,3
+assembl,24
+surfac,2
+said,54
+end,1
+non-rot,1
+divid,4
+pattern,1
+tube,9
+wherein,4
+1,6
+mix,1
+3,1
+enclosur,5
+5,1
+7,6
+impart,1
+9,1
+;,3
+plural,3
+circular,1
+A,2
+perimet,2
+may,2
+upon,3
+gener,2
+spot,1
+water,10
+spray,1
+releas,1
+The,10
+torqu,1
+convert,1
+coupl,1
+convers,1
+angl,2
+region,1
+flow,6
+face,8
+amount,2
+determin,1
+rotari,19
+first,2
+"(u'engag', u'opposit')",2
+"(u'face', u'compris')",1
+"(u'nozzl', u'tube')",9
+"(u'respons', u'water')",1
+"(u'apertur', u'.')",3
+"(u'non-rot', u'nozzl')",1
+"(u'mean', u'engag')",2
+"(u'.', u'A')",2
+"(u'within', u'said')",1
+"(u'nozzl', u'oper')",2
+"(u'face', u',')",1
+"(u'A', u'whirlpool')",2
+"(u'Venturi', u'hous')",1
+"(u'said', u'hous')",1
+"(u'rotat', u'spin')",1
+"(u'impart', u'rotat')",1
+"(u';', u'non-rotat')",1
+"(u'eyebal', u'may')",2
+"(u'11', u'.')",1
+"(u'said', u'apertur')",1
+"(u';', u'rotari')",1
+"(u'flow', u'respect')",1
+"(u'surfac', u'water-hold')",2
+"(u'1', u'compris')",2
+"(u'articulat', u'direct')",1
+"(u'eyebal', u'posit')",1
+"(u'respect', u'one')",1
+"(u'The', u'jet')",4
+"(u'claim', u'1')",5
+"(u'select', u'spot')",1
+"(u'select', u'convert')",1
+"(u'end', u'said')",1
+"(u'direct', u'said')",1
+"(u'.', u'5')",1
+"(u'face', u'said')",2
+"(u'hole', u'said')",2
+"(u'divid', u'divid')",2
+"(u'rotari', u'mode')",1
+"(u'manner', u'select')",1
+"(u'inlet', u'air')",1
+"(u'9', u'.')",1
+"(u'rotat', u'torqu')",1
+"(u'upon', u'remov')",3
+"(u'assembl', u'said')",2
+"(u'tube', u'plural')",1
+"(u'convers', u'said')",1
+"(u'tube', u'.')",3
+"(u'configur', u'remov')",2
+"(u'12', u'.')",1
+"(u'assembl', u'rotari')",2
+"(u'configur', u'oper')",1
+"(u'may', u'orient')",2
+"(u'1', u'wherein')",2
+"(u'said', u'rotari')",14
+"(u'configur', u',')",1
+"(u'stationari', u'mode')",1
+"(u'.', u'7')",1
+"(u'stationari', u'configur')",2
+"(u'divid', u'said')",2
+"(u'nozzl', u'plural')",1
+"(u'wall', u'apertur')",2
+"(u'jet', u'assembl')",16
+"(u'non-rotat', u'nozzl')",1
+"(u'The', u'whirlpool')",6
+"(u'said', u'cant')",1
+"(u'second', u'configur')",2
+"(u'enclosur', u'perimet')",2
+"(u'control', u'mean')",2
+"(u'orient', u'said')",1
+"(u'rotari', u'face')",8
+"(u'compris', u'mean')",2
+"(u'inlet', u'said')",1
+"(u'water-hold', u'enclosur')",3
+"(u'adjust', u'amount')",2
+"(u'articulat', u'non-rot')",1
+"(u',', u'said')",8
+"(u'spot', u',')",1
+"(u'tube', u'eyebal')",1
+"(u'inlet', u'direct')",1
+"(u'said', u'first')",1
+"(u'6', u'.')",1
+"(u'rotat', u'apertur')",3
+"(u'assembl', u'recit')",10
+"(u'releas', u'manner')",1
+"(u'nozzl', u'rotat')",1
+"(u'engag', u'said')",3
+"(u'rel', u'said')",2
+"(u'oper', u'said')",2
+"(u'gener', u'stream')",1
+"(u'orient', u'select')",2
+"(u'.', u'12')",1
+"(u'separ', u'stream')",1
+"(u'engag', u'end')",1
+"(u'concentr', u'within')",1
+"(u'said', u'eyebal')",3
+"(u'perimet', u'hole')",2
+"(u'remov', u'said')",5
+"(u'~~', u'1')",1
+"(u'apertur', u'pass')",1
+"(u'direct', u'determin')",1
+"(u'direct', u'stream')",2
+"(u'4', u'.')",1
+"(u'said', u'direct')",1
+"(u'nozzl', u'remov')",1
+"(u'apertur', u'direct')",2
+"(u'configur', u'compris')",1
+"(u'coupl', u'said')",1
+"(u'nozzl', u'articulat')",2
+"(u'assembl', u'engag')",1
+"(u',', u'rotari')",1
+"(u'.', u'3')",1
+"(u'assembl', u'select')",1
+"(u'remov', u'rotari')",1
+"(u'said', u'rotat')",1
+"(u'flow', u'said')",3
+"(u'said', u'air')",1
+"(u'lug', u'engag')",2
+"(u'said', u'stream')",4
+"(u'opposit', u'surfac')",2
+"(u'wherein', u'said')",4
+"(u'enclosur', u';')",1
+"(u'hous', u'fluid')",1
+"(u'assembl', u'direct')",1
+"(u'air', u'circular')",1
+"(u'rotari', u'assembl')",8
+"(u'select', u'angl')",2
+"(u'stream', u'said')",1
+"(u'2', u'.')",1
+"(u'face', u'.')",1
+"(u'fluid', u'commun')",2
+"(u'said', u'water')",1
+"(u'tube', u'said')",3
+"(u'plural', u'cant')",1
+"(u'gener', u'rotat')",1
+"(u'tube', u'releas')",1
+"(u'one', u'said')",1
+"(u'.', u'4')",1
+"(u'assembl', u',')",2
+"(u'assembl', u'spray')",1
+"(u'pass', u'said')",1
+"(u'apertur', u'respons')",1
+"(u'determin', u'orient')",1
+"(u'.', u'8')",1
+"(u'region', u',')",1
+"(u'apertur', u'impart')",1
+"(u'rotat', u'said')",1
+"(u'commun', u'said')",2
+"(u'inlet', u'gener')",1
+"(u'circular', u'pattern')",1
+"(u'7', u'wherein')",2
+"(u'amount', u'water')",2
+"(u'air', u'region')",1
+"(u'select', u'convers')",1
+"(u'face', u'attach')",1
+"(u'apertur', u'wall')",1
+"(u'mode', u',')",2
+"(u',', u'nozzl')",1
+"(u'10', u'.')",1
+"(u'.', u'6')",1
+"(u'assembl', u'.')",1
+"(u'nozzl', u'.')",2
+"(u'attach', u'said')",1
+"(u'stream', u'water')",3
+"(u'said', u'whirlpool')",4
+"(u'concentr', u'engag')",1
+"(u'nozzl', u',')",1
+"(u'compris', u'plural')",1
+"(u'stream', u'mix')",1
+"(u'face', u'rotat')",1
+"(u'.', u'11')",1
+"(u'said', u'enclosur')",2
+"(u'cant', u'apertur')",2
+"(u'direct', u'stationari')",3
+"(u'compris', u'articulat')",1
+"(u'water', u'inlet')",2
+"(u'first', u'configur')",1
+"(u'convert', u'first')",1
+"(u'respect', u'rotat')",1
+"(u'air', u'select')",1
+"(u'air', u'apertur')",1
+"(u'.', u'10')",1
+"(u'said', u'wall')",2
+"(u'enclosur', u'.')",2
+"(u'said', u'second')",1
+"(u'7', u'compris')",2
+"(u'water', u'air')",8
+"(u'claim', u'7')",5
+"(u'torqu', u'said')",1
+"(u'air', u'inlet')",2
+"(u'recit', u'claim')",10
+"(u'posit', u'concentr')",1
+"(u'.', u'9')",1
+"(u';', u'Venturi')",1
+"(u'angl', u'rel')",2
+"(u'spray', u'water')",1
+"(u'stream', u'respect')",1
+"(u'hous', u'water')",1
+"(u'said', u'nozzl')",16
+"(u'7', u'upon')",1
+"(u'compris', u'divid')",2
+"(u'eyebal', u';')",1
+"(u'air', u'separ')",1
+"(u'1', u'upon')",1
+"(u'assembl', u'compris')",3
+"(u'whirlpool', u'jet')",12
+"(u'flow', u'control')",2
+"(u'3', u'.')",1
+"(u'mean', u'adjust')",2
+"(u'compris', u';')",1
+"(u'7', u'.')",1
+"(u'rotari', u'configur')",2
+"(u'configur', u'concentr')",1
+"(u'oper', u'coupl')",1
+"(u'face', u'fluid')",1
+"(u'stream', u'flow')",1
+"(u'.', u'2')",1
+"(u'first', u'second')",1
+"(u'5', u'.')",1
+"(u'configur', u'direct')",1
+"(u'air', u'flow')",3
+"(u'pattern', u',')",1
+"(u'wall', u'water-hold')",1
+"(u'compris', u'flow')",2
+"(u'plural', u'lug')",2
+"(u'stream', u'gener')",1
+"(u'spin', u'said')",1
+"(u'1', u'.')",1
+"(u'8', u'.')",1
+"(u'mix', u'water')",1
+"(u'.', u'The')",10
+"(u'articulat', u'upon')",1
+"(u'1', u'compris', u'flow')",1
+"(u'remov', u'said', u'nozzl')",2
+"(u'apertur', u'impart', u'rotat')",1
+"(u',', u'rotari', u'face')",1
+"(u'respect', u'rotat', u'apertur')",1
+"(u'water', u'air', u'region')",1
+"(u'releas', u'manner', u'select')",1
+"(u'4', u'.', u'The')",1
+"(u'direct', u'stationari', u'configur')",2
+"(u'stationari', u'configur', u'remov')",1
+"(u'assembl', u'said', u'rotari')",1
+"(u'lug', u'engag', u'end')",1
+"(u'direct', u'stream', u'water')",2
+"(u'engag', u'opposit', u'surfac')",2
+"(u'first', u'second', u'configur')",1
+"(u'jet', u'assembl', u'rotari')",2
+"(u'divid', u'said', u'stream')",2
+"(u'face', u'fluid', u'commun')",1
+"(u'The', u'jet', u'assembl')",4
+"(u'mix', u'water', u'air')",1
+"(u'assembl', u'engag', u'said')",1
+"(u'stream', u'water', u'air')",3
+"(u'direct', u'said', u'stream')",1
+"(u'jet', u'assembl', u'direct')",1
+"(u'adjust', u'amount', u'water')",2
+"(u'region', u',', u'said')",1
+"(u'7', u'wherein', u'said')",2
+"(u'said', u'eyebal', u'may')",2
+"(u'wall', u'water-hold', u'enclosur')",1
+"(u'assembl', u'compris', u'divid')",1
+"(u'configur', u'oper', u'coupl')",1
+"(u'face', u'.', u'10')",1
+"(u'stream', u'flow', u'respect')",1
+"(u'claim', u'1', u'upon')",1
+"(u'nozzl', u'articulat', u'upon')",1
+"(u'tube', u'plural', u'cant')",1
+"(u'rotari', u'face', u'fluid')",1
+"(u'mode', u',', u'nozzl')",1
+"(u'rotari', u'face', u'attach')",1
+"(u'.', u'10', u'.')",1
+"(u'apertur', u'.', u'4')",1
+"(u'compris', u'articulat', u'non-rot')",1
+"(u'rotari', u'assembl', u'compris')",2
+"(u',', u'said', u'rotari')",4
+"(u'jet', u'assembl', u'recit')",10
+"(u'tube', u'.', u'2')",1
+"(u'divid', u'divid', u'said')",2
+"(u'Venturi', u'hous', u'water')",1
+"(u'The', u'whirlpool', u'jet')",6
+"(u'rotat', u'torqu', u'said')",1
+"(u'face', u'attach', u'said')",1
+"(u',', u'nozzl', u'articulat')",1
+"(u'compris', u'divid', u'divid')",2
+"(u'.', u'7', u'.')",1
+"(u'said', u'nozzl', u'rotat')",1
+"(u'rel', u'said', u'wall')",2
+"(u'one', u'said', u'cant')",1
+"(u'said', u'water', u'inlet')",1
+"(u';', u'Venturi', u'hous')",1
+"(u'7', u'upon', u'remov')",1
+"(u'configur', u'concentr', u'engag')",1
+"(u'air', u'flow', u'said')",3
+"(u'second', u'configur', u'remov')",1
+"(u'tube', u'said', u'eyebal')",2
+"(u'assembl', u'said', u'direct')",1
+"(u'pattern', u',', u'said')",1
+"(u'1', u'wherein', u'said')",2
+"(u'face', u'said', u'whirlpool')",1
+"(u'assembl', u'.', u'8')",1
+"(u'rotat', u'apertur', u'direct')",1
+"(u'inlet', u'air', u'inlet')",1
+"(u'said', u'direct', u'stationari')",1
+"(u'first', u'configur', u'oper')",1
+"(u'claim', u'7', u'wherein')",2
+"(u'water', u'air', u'circular')",1
+"(u'.', u'12', u'.')",1
+"(u'enclosur', u';', u'non-rotat')",1
+"(u'said', u'stream', u'water')",1
+"(u'posit', u'concentr', u'within')",1
+"(u'second', u'configur', u'compris')",1
+"(u'.', u'3', u'.')",1
+"(u'12', u'.', u'The')",1
+"(u'stream', u'said', u'nozzl')",1
+"(u'claim', u'1', u'wherein')",2
+"(u'nozzl', u'tube', u'said')",3
+"(u'8', u'.', u'The')",1
+"(u'stream', u'mix', u'water')",1
+"(u'apertur', u'wall', u'water-hold')",1
+"(u'rotari', u'mode', u',')",1
+"(u'circular', u'pattern', u',')",1
+"(u'water', u'air', u'select')",1
+"(u'rotat', u'spin', u'said')",1
+"(u'2', u'.', u'The')",1
+"(u'apertur', u'respons', u'water')",1
+"(u'remov', u'rotari', u'face')",1
+"(u'water', u'air', u'separ')",1
+"(u'rotat', u'apertur', u'impart')",1
+"(u'concentr', u'engag', u'said')",1
+"(u'said', u'cant', u'apertur')",1
+"(u'3', u'.', u'The')",1
+"(u'recit', u'claim', u'1')",5
+"(u'.', u'2', u'.')",1
+"(u'assembl', u'direct', u'stationari')",1
+"(u'air', u'select', u'spot')",1
+"(u'rotari', u'assembl', u'said')",2
+"(u'7', u'.', u'A')",1
+"(u'air', u'separ', u'stream')",1
+"(u'may', u'orient', u'select')",2
+"(u'7', u'compris', u'flow')",1
+"(u'configur', u'compris', u'articulat')",1
+"(u'water', u'inlet', u'air')",1
+"(u'tube', u'releas', u'manner')",1
+"(u'select', u'angl', u'rel')",2
+"(u'rotari', u'assembl', u'engag')",1
+"(u'said', u'nozzl', u'.')",2
+"(u',', u'said', u'second')",1
+"(u'within', u'said', u'hous')",1
+"(u'direct', u'determin', u'orient')",1
+"(u'tube', u'.', u'5')",1
+"(u'hous', u'fluid', u'commun')",1
+"(u'water', u'inlet', u'said')",1
+"(u'1', u'.', u'A')",1
+"(u'compris', u'flow', u'control')",2
+"(u'apertur', u'direct', u'determin')",1
+"(u'select', u'convert', u'first')",1
+"(u'enclosur', u'.', u'7')",1
+"(u'said', u'enclosur', u'.')",2
+"(u'rotari', u'face', u'said')",2
+"(u'10', u'.', u'The')",1
+"(u'said', u'nozzl', u'plural')",1
+"(u'assembl', u'rotari', u'mode')",1
+"(u'wherein', u'said', u'rotari')",4
+"(u'.', u'9', u'.')",1
+"(u'5', u'.', u'The')",1
+"(u'nozzl', u'.', u'11')",1
+"(u'surfac', u'water-hold', u'enclosur')",2
+"(u'said', u'second', u'configur')",1
+"(u'A', u'whirlpool', u'jet')",2
+"(u'nozzl', u'.', u'9')",1
+"(u'rotari', u'assembl', u',')",2
+"(u'water', u'air', u'flow')",3
+"(u'non-rot', u'nozzl', u'remov')",1
+"(u'respect', u'one', u'said')",1
+"(u'water', u'air', u'apertur')",1
+"(u'non-rotat', u'nozzl', u'tube')",1
+"(u'said', u'stream', u'said')",1
+"(u'air', u'inlet', u'direct')",1
+"(u'6', u'.', u'The')",1
+"(u'said', u'rotari', u'configur')",1
+"(u'nozzl', u'tube', u'releas')",1
+"(u'.', u'8', u'.')",1
+"(u'rotari', u'assembl', u'spray')",1
+"(u'spin', u'said', u'rotari')",1
+"(u'said', u'rotari', u'face')",6
+"(u'claim', u'7', u'upon')",1
+"(u'orient', u'select', u'angl')",2
+"(u'said', u'stream', u'respect')",1
+"(u'nozzl', u'rotat', u'said')",1
+"(u'apertur', u'pass', u'said')",1
+"(u'recit', u'claim', u'7')",5
+"(u'inlet', u'gener', u'stream')",1
+"(u'water-hold', u'enclosur', u';')",1
+"(u';', u'non-rotat', u'nozzl')",1
+"(u'gener', u'rotat', u'spin')",1
+"(u'configur', u'direct', u'stationari')",1
+"(u'rotat', u'said', u'rotat')",1
+"(u'orient', u'said', u'eyebal')",1
+"(u'face', u',', u'said')",1
+"(u'face', u'rotat', u'apertur')",1
+"(u'whirlpool', u'jet', u'assembl')",12
+"(u'end', u'said', u'nozzl')",1
+"(u'wall', u'apertur', u'.')",2
+"(u'hole', u'said', u'enclosur')",2
+"(u'lug', u'engag', u'said')",1
+"(u'said', u'stream', u'gener')",1
+"(u'face', u'said', u'first')",1
+"(u'eyebal', u'posit', u'concentr')",1
+"(u'.', u'The', u'jet')",4
+"(u'said', u'apertur', u'direct')",1
+"(u'compris', u'plural', u'lug')",1
+"(u'gener', u'stream', u'mix')",1
+"(u'engag', u'said', u'nozzl')",3
+"(u'concentr', u'within', u'said')",1
+"(u'configur', u'remov', u'said')",2
+"(u'rotari', u'face', u'rotat')",1
+"(u'enclosur', u'perimet', u'hole')",2
+"(u'said', u'wall', u'apertur')",2
+"(u'stationari', u'configur', u',')",1
+"(u'nozzl', u'remov', u'rotari')",1
+"(u'remov', u'said', u'rotari')",3
+"(u'.', u'4', u'.')",1
+"(u'rotari', u'face', u'compris')",1
+"(u'oper', u'coupl', u'said')",1
+"(u'said', u'rotat', u'apertur')",1
+"(u'assembl', u',', u'said')",2
+"(u'11', u'.', u'The')",1
+"(u'angl', u'rel', u'said')",2
+"(u'manner', u'select', u'convers')",1
+"(u'fluid', u'commun', u'said')",2
+"(u'apertur', u'direct', u'stream')",1
+"(u'1', u'upon', u'remov')",1
+"(u'opposit', u'surfac', u'water-hold')",2
+"(u'plural', u'cant', u'apertur')",1
+"(u'select', u'convers', u'said')",1
+"(u'convers', u'said', u'whirlpool')",1
+"(u'apertur', u'.', u'6')",1
+"(u'compris', u'mean', u'engag')",2
+"(u'plural', u'lug', u'engag')",2
+"(u'flow', u'control', u'mean')",2
+"(u'rotari', u'face', u',')",1
+"(u'nozzl', u'tube', u'eyebal')",1
+"(u'said', u'nozzl', u'tube')",8
+"(u'assembl', u'recit', u'claim')",10
+"(u'articulat', u'non-rot', u'nozzl')",1
+"(u'said', u'air', u'inlet')",1
+"(u'said', u'first', u'configur')",1
+"(u',', u'said', u'nozzl')",3
+"(u'pass', u'said', u'stream')",1
+"(u'impart', u'rotat', u'torqu')",1
+"(u'nozzl', u',', u'said')",1
+"(u'eyebal', u'may', u'orient')",2
+"(u'air', u'region', u',')",1
+"(u'engag', u'end', u'said')",1
+"(u'direct', u'stationari', u'mode')",1
+"(u'assembl', u'rotari', u'configur')",1
+"(u'7', u'compris', u'mean')",1
+"(u'flow', u'said', u'nozzl')",3
+"(u'separ', u'stream', u'flow')",1
+"(u'.', u'The', u'whirlpool')",6
+"(u'assembl', u'spray', u'water')",1
+"(u'rotari', u'configur', u'direct')",1
+"(u'claim', u'1', u'compris')",2
+"(u'assembl', u'compris', u'plural')",1
+"(u'said', u'hous', u'fluid')",1
+"(u'~~', u'1', u'.')",1
+"(u'oper', u'said', u'whirlpool')",2
+"(u'spray', u'water', u'air')",1
+"(u'nozzl', u'oper', u'said')",2
+"(u'torqu', u'said', u'rotari')",1
+"(u'water-hold', u'enclosur', u'perimet')",2
+"(u'flow', u'respect', u'rotat')",1
+"(u'said', u'eyebal', u';')",1
+"(u'inlet', u'direct', u'said')",1
+"(u'enclosur', u'.', u'12')",1
+"(u'upon', u'remov', u'said')",3
+"(u'articulat', u'direct', u'stream')",1
+"(u'tube', u'eyebal', u'posit')",1
+"(u'said', u'nozzl', u'oper')",2
+"(u'stationari', u'mode', u',')",1
+"(u'stream', u'gener', u'rotat')",1
+"(u'respons', u'water', u'air')",1
+"(u'select', u'spot', u',')",1
+"(u'commun', u'said', u'nozzl')",1
+"(u'amount', u'water', u'air')",2
+"(u'claim', u'7', u'compris')",2
+"(u'air', u'circular', u'pattern')",1
+"(u'assembl', u'compris', u';')",1
+"(u'assembl', u'select', u'convert')",1
+"(u'determin', u'orient', u'said')",1
+"(u'attach', u'said', u'nozzl')",1
+"(u'cant', u'apertur', u'.')",1
+"(u'hous', u'water', u'inlet')",1
+"(u'nozzl', u'tube', u'.')",3
+"(u'nozzl', u'plural', u'lug')",1
+"(u'said', u'nozzl', u'articulat')",1
+"(u'inlet', u'said', u'air')",1
+"(u'nozzl', u'tube', u'plural')",1
+"(u'tube', u'.', u'3')",1
+"(u'rotat', u'apertur', u'respons')",1
+"(u'convert', u'first', u'second')",1
+"(u'9', u'.', u'The')",1
+"(u'said', u'whirlpool', u'jet')",4
+"(u'eyebal', u';', u'rotari')",1
+"(u'nozzl', u'articulat', u'direct')",1
+"(u'configur', u',', u'said')",1
+"(u'mean', u'adjust', u'amount')",2
+"(u'air', u'inlet', u'gener')",1
+"(u'rotari', u'configur', u'concentr')",1
+"(u';', u'rotari', u'assembl')",1
+"(u'articulat', u'upon', u'remov')",1
+"(u'jet', u'assembl', u'.')",1
+"(u'stream', u'respect', u'one')",1
+"(u'said', u'nozzl', u',')",1
+"(u'perimet', u'hole', u'said')",2
+"(u'.', u'5', u'.')",1
+"(u'control', u'mean', u'adjust')",2
+"(u'spot', u',', u'rotari')",1
+"(u'cant', u'apertur', u'pass')",1
+"(u'1', u'compris', u'mean')",1
+"(u'jet', u'assembl', u'compris')",1
+"(u'mean', u'engag', u'opposit')",2
+"(u'rotari', u'face', u'.')",1
+"(u'tube', u'said', u'apertur')",1
+"(u'said', u'rotari', u'assembl')",7
+"(u'mode', u',', u'said')",1
+"(u'jet', u'assembl', u'select')",1
+"(u'coupl', u'said', u'nozzl')",1
+"(u'face', u'compris', u'divid')",1
+"(u'air', u'apertur', u'wall')",1
+"(u'.', u'6', u'.')",1
+"(u'.', u'11', u'.')",1
+"(u'.', u'A', u'whirlpool')",2
+"(u'commun', u'said', u'water')",1
+"(u'compris', u';', u'Venturi')",1

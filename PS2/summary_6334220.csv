@@ -1,0 +1,460 @@
+,0
+joinabl,4
+move,4
+strap,32
+perfor,6
+strip,2
+open,8
+use,1
+top,8
+torn,4
+",",24
+least,5
+.,8
+2,1
+4,1
+:,4
+includ,6
+adhes,6
+stomach,4
+around,2
+form,6
+3,1
+front,16
+one,9
+pouch,8
+b,4
+join,8
+tear,8
+remov,2
+collect,4
+compris,8
+quick,1
+side,16
+two,2
+~~,1
+garment,7
+back,10
+fold,4
+second,36
+close,4
+dispos,4
+surfac,12
+end,58
+bottom,4
+),12
+storag,4
+section,23
+portion,8
+wherein,8
+1,1
+chest,4
+adapt,3
+;,8
+A,4
+extend,2
+tearabl,6
+downwardli,4
+posit,24
+user,12
+along,4
+c,4
+particul,4
+neck,7
+liquid,4
+cover,24
+produc,2
+length,2
+permit,2
+chang,2
+protector,40
+support,18
+first,46
+"(u'produc', u'second')",2
+"(u'first', u'second')",4
+"(u'.', u'A')",4
+"(u'one', u'first')",4
+"(u'side', u',')",4
+"(u'bottom', u'end')",4
+"(u'user', u';')",6
+"(u',', u'front')",4
+"(u'posit', u'storag')",4
+"(u'compris', u'strap')",2
+"(u',', u'pouch')",4
+"(u'posit', u'strap')",2
+"(u'cover', u'second')",4
+"(u'strap', u'tear')",4
+"(u':', u')')",4
+"(u'A', u'dispos')",4
+"(u'close', u'posit')",4
+"(u'pouch', u'posit')",4
+"(u'end', u'bottom')",4
+"(u'user', u'wherein')",4
+"(u'extend', u'first')",2
+"(u'section', u'second')",2
+"(u'end', u'strip')",2
+"(u'front', u'back')",4
+"(u')', u'neck')",1
+"(u'wherein', u'strap')",4
+"(u'side', u'protector')",2
+"(u'strip', u'join')",2
+"(u',', u'b')",4
+"(u'length', u'strap')",2
+"(u'join', u'second')",4
+"(u'two', u'strap')",2
+"(u'end', u',')",4
+"(u'end', u'chang')",2
+"(u'surfac', u',')",4
+"(u'portion', u'chest')",4
+"(u'storag', u'second')",4
+"(u'perfor', u'least')",1
+"(u'tear', u'end')",8
+"(u'strap', u';')",1
+"(u'open', u'posit')",8
+"(u'includ', u'least')",4
+"(u'end', u'support')",4
+"(u'first', u'side')",8
+"(u'end', u'portion')",4
+"(u'downwardli', u'along')",4
+"(u'section', u'tearabl')",1
+"(u'second', u'end')",16
+"(u'back', u'form')",4
+"(u'support', u'posit')",4
+"(u'support', u'adapt')",3
+"(u'perfor', u'adhes')",1
+"(u'end', u'first')",2
+"(u'strap', u'wherein')",2
+"(u'chang', u'length')",2
+"(u'cover', u'wherein')",2
+"(u'end', u'joinabl')",2
+"(u'liquid', u'move')",4
+"(u'end', u'second')",4
+"(u'section', u'first')",8
+"(u'dispos', u'garment')",4
+"(u'strap', u'first')",2
+"(u'strap', u'section')",17
+"(u'cover', u'around')",2
+"(u'protector', u'support')",11
+"(u'end', u'posit')",2
+"(u'end', u'includ')",2
+"(u'adapt', u'support')",3
+"(u',', u'first')",12
+"(u'section', u'posit')",2
+"(u'posit', u'top')",4
+"(u'torn', u',')",2
+"(u'section', u'joinabl')",2
+"(u'top', u'end')",8
+"(u'first', u'end')",22
+"(u'joinabl', u'adhes')",2
+"(u'around', u'back')",2
+"(u'joinabl', u'form')",2
+"(u'form', u'fold')",4
+"(u'permit', u'quick')",1
+"(u'~~', u'1')",1
+"(u'4', u'.')",1
+"(u'includ', u'adhes')",2
+"(u'cover', u',')",4
+"(u'pouch', u'top')",4
+"(u'neck', u'user')",7
+"(u'.', u'3')",1
+"(u'support', u'compris')",4
+"(u'quick', u'remov')",1
+"(u'support', u'first')",4
+"(u'along', u'front')",4
+"(u'.', u'4')",1
+"(u'wherein', u'protector')",4
+"(u'second', u'strap')",8
+"(u'c', u')')",4
+"(u'end', u'strap')",2
+"(u'end', u'protector')",14
+"(u';', u'c')",4
+"(u'2', u'.')",1
+"(u'second', u'side')",8
+"(u'first', u'close')",4
+"(u';', u',')",4
+"(u'collect', u'particul')",4
+"(u'posit', u'second')",4
+"(u'cover', u'.')",4
+"(u'end', u'join')",4
+"(u'protector', u'cover')",20
+"(u'remov', u'protector')",2
+"(u'adhes', u'section')",6
+"(u')', u'protector')",7
+"(u'surfac', u'protector')",4
+"(u'strap', u'tearabl')",1
+"(u'permit', u'remov')",1
+"(u'posit', u'collect')",4
+"(u'section', u',')",2
+"(u'back', u'neck')",2
+"(u'surfac', u'back')",4
+"(u'tearabl', u'perfor')",6
+"(u'support', u'garment')",3
+"(u'end', u'produc')",2
+"(u'end', u'open')",4
+"(u'posit', u'extend')",2
+"(u'chest', u'stomach')",4
+"(u'b', u')')",4
+"(u'least', u'one')",5
+"(u'protector', u'neck')",4
+"(u'stomach', u'user')",4
+"(u'form', u'strap')",2
+"(u'side', u'second')",4
+"(u'front', u'portion')",4
+"(u'first', u'strap')",8
+"(u'section', u'includ')",1
+"(u'garment', u'protector')",7
+"(u'section', u';')",1
+"(u'protector', u'use')",1
+"(u'user', u'second')",2
+"(u'protector', u'compris')",4
+"(u'fold', u'one')",4
+"(u'perfor', u'torn')",4
+"(u'particul', u'liquid')",4
+"(u'posit', u'cover')",4
+"(u'front', u'surfac')",8
+"(u'compris', u'two')",2
+"(u'3', u'.')",1
+"(u'use', u'user')",1
+"(u'strap', u'includ')",3
+"(u'cover', u'front')",8
+"(u'torn', u'permit')",2
+"(u'second', u'open')",4
+"(u'portion', u'second')",2
+"(u'strap', u'join')",2
+"(u'.', u'2')",1
+"(u'join', u'first')",4
+"(u'one', u'tearabl')",4
+"(u'section', u'tear')",4
+"(u'back', u'surfac')",4
+"(u'compris', u':')",4
+"(u'side', u'first')",6
+"(u'one', u'adhes')",1
+"(u'1', u'.')",1
+"(u')', u'pouch')",4
+"(u'portion', u'first')",2
+"(u'move', u'downwardli')",4
+"(u'one', u'first', u'close')",4
+"(u'protector', u'cover', u'front')",4
+"(u'collect', u'particul', u'liquid')",4
+"(u'portion', u'chest', u'stomach')",4
+"(u'strap', u'section', u'joinabl')",2
+"(u'cover', u'.', u'3')",1
+"(u'strap', u'first', u'end')",2
+"(u'end', u'support', u'first')",4
+"(u'front', u'surfac', u'protector')",4
+"(u'side', u',', u'first')",4
+"(u'strap', u'section', u',')",2
+"(u'A', u'dispos', u'garment')",4
+"(u'first', u'strap', u'tear')",2
+"(u'second', u'end', u'portion')",2
+"(u'posit', u'strap', u'section')",1
+"(u'form', u'strap', u'wherein')",2
+"(u'section', u';', u'c')",1
+"(u'around', u'back', u'neck')",2
+"(u',', u'b', u')')",4
+"(u'end', u'second', u'end')",2
+"(u'second', u'side', u',')",4
+"(u'surfac', u',', u'first')",4
+"(u'end', u'protector', u'cover')",10
+"(u'second', u'side', u'protector')",2
+"(u'bottom', u'end', u',')",4
+"(u'least', u'one', u'adhes')",1
+"(u'front', u'portion', u'chest')",4
+"(u'section', u'joinabl', u'form')",2
+"(u',', u'first', u'second')",4
+"(u'neck', u'user', u'wherein')",4
+"(u'protector', u'compris', u':')",4
+"(u'adhes', u'section', u'second')",2
+"(u'cover', u'front', u'surfac')",4
+"(u'join', u'second', u'side')",4
+"(u'second', u'side', u'first')",2
+"(u'perfor', u'adhes', u'section')",1
+"(u'section', u'posit', u'strap')",2
+"(u'section', u'tear', u'end')",4
+"(u'torn', u'permit', u'remov')",1
+"(u'permit', u'quick', u'remov')",1
+"(u'front', u'surfac', u'back')",4
+"(u'section', u'tearabl', u'perfor')",1
+"(u'2', u'.', u'A')",1
+"(u':', u')', u'protector')",4
+"(u'tear', u'end', u'chang')",2
+"(u'least', u'one', u'tearabl')",4
+"(u'remov', u'protector', u'use')",1
+"(u'chang', u'length', u'strap')",2
+"(u'adhes', u'section', u'posit')",2
+"(u'support', u'posit', u'cover')",4
+"(u'compris', u':', u')')",4
+"(u'first', u'close', u'posit')",4
+"(u'liquid', u'move', u'downwardli')",4
+"(u'posit', u'collect', u'particul')",4
+"(u'first', u'second', u'end')",4
+"(u'user', u'second', u'end')",2
+"(u'section', u'second', u'strap')",2
+"(u'end', u'produc', u'second')",2
+"(u'support', u'adapt', u'support')",3
+"(u'strap', u'tearabl', u'perfor')",1
+"(u'remov', u'protector', u'neck')",1
+"(u')', u'protector', u'support')",3
+"(u'joinabl', u'form', u'strap')",2
+"(u'one', u'adhes', u'section')",1
+"(u'form', u'fold', u'one')",4
+"(u'permit', u'remov', u'protector')",1
+"(u'second', u'end', u'second')",2
+"(u'.', u'3', u'.')",1
+"(u'support', u'compris', u'strap')",2
+"(u'end', u'chang', u'length')",2
+"(u'first', u'end', u'join')",4
+"(u'section', u'first', u'end')",6
+"(u'second', u'strap', u'section')",6
+"(u',', u'pouch', u'top')",4
+"(u'first', u'end', u'strap')",2
+"(u'protector', u'cover', u'second')",4
+"(u'neck', u'user', u';')",1
+"(u'second', u'end', u'protector')",4
+"(u'along', u'front', u'surfac')",4
+"(u'two', u'strap', u'section')",2
+"(u'wherein', u'strap', u'includ')",3
+"(u'section', u'first', u'strap')",2
+"(u'protector', u'cover', u'.')",4
+"(u'posit', u'strap', u'tearabl')",1
+"(u'cover', u'.', u'4')",1
+"(u'adhes', u'section', u'first')",2
+"(u'posit', u'second', u'end')",4
+"(u'includ', u'adhes', u'section')",2
+"(u'.', u'2', u'.')",1
+"(u'strap', u'tear', u'end')",4
+"(u'tear', u'end', u'joinabl')",2
+"(u'quick', u'remov', u'protector')",1
+"(u'end', u',', u'front')",4
+"(u'support', u'garment', u'protector')",3
+"(u'user', u'wherein', u'protector')",4
+"(u'compris', u'two', u'strap')",2
+"(u'front', u'back', u'form')",4
+"(u'wherein', u'strap', u'section')",1
+"(u'end', u'portion', u'first')",2
+"(u',', u'front', u'back')",4
+"(u'perfor', u'least', u'one')",1
+"(u'includ', u'least', u'one')",4
+"(u'cover', u'around', u'back')",2
+"(u'chest', u'stomach', u'user')",4
+"(u'posit', u'extend', u'first')",2
+"(u'back', u'surfac', u',')",4
+"(u'close', u'posit', u'storag')",4
+"(u'perfor', u'torn', u',')",2
+"(u'1', u'.', u'A')",1
+"(u'section', u',', u'first')",2
+"(u';', u',', u'b')",4
+"(u'second', u'end', u'posit')",2
+"(u')', u'protector', u'cover')",4
+"(u'b', u')', u'neck')",1
+"(u'first', u'end', u'portion')",2
+"(u'produc', u'second', u'strap')",2
+"(u'back', u'neck', u'user')",2
+"(u'storag', u'second', u'open')",4
+"(u'cover', u'front', u'portion')",4
+"(u'end', u'open', u'posit')",4
+"(u'end', u'protector', u'support')",4
+"(u'surfac', u'back', u'surfac')",4
+"(u'join', u'first', u'side')",4
+"(u'fold', u'one', u'first')",4
+"(u'strap', u';', u'c')",1
+"(u'end', u'second', u'strap')",2
+"(u'pouch', u'posit', u'second')",4
+"(u'tear', u'end', u'includ')",2
+"(u'extend', u'first', u'end')",2
+"(u'strap', u'section', u';')",1
+"(u'garment', u'protector', u'neck')",3
+"(u'protector', u'support', u'posit')",4
+"(u'end', u'portion', u'second')",2
+"(u'end', u'strap', u'join')",2
+"(u'support', u'first', u'end')",4
+"(u'side', u'protector', u'cover')",2
+"(u'posit', u'top', u'end')",4
+"(u'portion', u'second', u'strap')",2
+"(u'joinabl', u'adhes', u'section')",2
+"(u'back', u'form', u'fold')",4
+"(u'second', u'end', u'strip')",2
+"(u'second', u'end', u'support')",4
+"(u'portion', u'first', u'strap')",2
+"(u'protector', u'cover', u'wherein')",2
+"(u'strap', u'section', u'tearabl')",1
+"(u'strap', u'section', u'tear')",4
+"(u'b', u')', u'protector')",3
+"(u'posit', u'storag', u'second')",4
+"(u'use', u'user', u';')",1
+"(u'end', u'first', u'end')",2
+"(u'adapt', u'support', u'garment')",3
+"(u'side', u'second', u'side')",4
+"(u'.', u'A', u'dispos')",4
+"(u'side', u'first', u'end')",6
+"(u'first', u'end', u'second')",2
+"(u'c', u')', u'pouch')",4
+"(u'stomach', u'user', u';')",4
+"(u'tearabl', u'perfor', u'adhes')",1
+"(u'compris', u'strap', u'first')",2
+"(u'tearabl', u'perfor', u'torn')",4
+"(u'perfor', u'torn', u'permit')",2
+"(u'posit', u'cover', u'front')",4
+"(u')', u'neck', u'user')",1
+"(u'one', u'tearabl', u'perfor')",4
+"(u'end', u'strip', u'join')",2
+"(u'end', u'join', u'second')",2
+"(u'open', u'posit', u'collect')",4
+"(u'end', u'join', u'first')",2
+"(u'4', u'.', u'A')",1
+"(u'torn', u',', u'first')",2
+"(u'pouch', u'top', u'end')",4
+"(u'strip', u'join', u'second')",2
+"(u'top', u'end', u'bottom')",4
+"(u'end', u'joinabl', u'adhes')",2
+"(u'cover', u'second', u'end')",4
+"(u'protector', u'support', u'adapt')",3
+"(u'tear', u'end', u'produc')",2
+"(u'tearabl', u'perfor', u'least')",1
+"(u'neck', u'user', u'second')",2
+"(u'length', u'strap', u';')",1
+"(u'cover', u'.', u'2')",1
+"(u'surfac', u'protector', u'cover')",4
+"(u'~~', u'1', u'.')",1
+"(u'.', u'4', u'.')",1
+"(u'section', u'includ', u'least')",1
+"(u'user', u';', u',')",4
+"(u'strap', u'join', u'first')",2
+"(u'protector', u'cover', u',')",4
+"(u'protector', u'use', u'user')",1
+"(u'cover', u'wherein', u'strap')",2
+"(u'protector', u'support', u'compris')",4
+"(u'first', u'end', u'protector')",10
+"(u'user', u';', u'c')",2
+"(u'torn', u'permit', u'quick')",1
+"(u'cover', u',', u'pouch')",4
+"(u'protector', u'cover', u'around')",2
+"(u'strap', u'section', u'first')",6
+"(u'end', u'bottom', u'end')",4
+"(u'end', u'posit', u'extend')",2
+"(u'strap', u'section', u'includ')",1
+"(u'support', u'compris', u'two')",2
+"(u'move', u'downwardli', u'along')",4
+"(u'end', u'includ', u'adhes')",2
+"(u')', u'pouch', u'posit')",4
+"(u'second', u'strap', u'tear')",2
+"(u'first', u'end', u'first')",2
+"(u'open', u'posit', u'top')",4
+"(u',', u'first', u'strap')",4
+"(u'second', u'open', u'posit')",4
+"(u'garment', u'protector', u'compris')",4
+"(u';', u'c', u')')",4
+"(u'top', u'end', u'open')",4
+"(u',', u'first', u'side')",4
+"(u'wherein', u'protector', u'support')",4
+"(u'downwardli', u'along', u'front')",4
+"(u'first', u'strap', u'section')",6
+"(u'strap', u'includ', u'least')",3
+"(u'first', u'side', u'first')",4
+"(u'strap', u'wherein', u'strap')",2
+"(u'3', u'.', u'A')",1
+"(u'protector', u'neck', u'user')",4
+"(u'first', u'side', u'second')",4
+"(u'length', u'strap', u'section')",1
+"(u'dispos', u'garment', u'protector')",4
+"(u'particul', u'liquid', u'move')",4

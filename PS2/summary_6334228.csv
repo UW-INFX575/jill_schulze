@@ -1,0 +1,484 @@
+,0
+10.20,3
+rang,1
+meter,5
+system,7
+60,1
+sleep,12
+cross-sect,4
+concentr,5
+ratio,4
+suffici,5
+area,8
+(,1
+",",18
+least,1
+.,30
+late,1
+accumul,5
+2,3
+4,1
+6,2
+8,2
+:,1
+includ,3
+dissip,1
+CO,1
+50.80,2
+measur,13
+fan,1
+hole,8
+40:1,2
+30.48,2
+11,1
+10,3
+13,2
+12,2
+15,1
+14,2
+20:1,2
+bed,1
+air,11
+porou,7
+therein,2
+claim,13
+~~,1
+flow,13
+60:1,1
+rate,11
+ventil,7
+dispos,1
+surfac,12
+said,2
+55.88,2
+wherein,15
+1,6
+3,1
+5,1
+7,2
+9,1
+;,5
+plural,3
+method,10
+A,2
+cm/,15
+accord,13
+compris,2
+effect,1
+25.40,6
+The,13
+airflow,8
+tire,1
+cover,7
+portion,4
+wherebi,1
+produc,6
+"(u'rate', u'10.20')",1
+"(u'claim', u'8')",1
+"(u'therein', u'.')",1
+"(u'12', u'.')",1
+"(u';', u'concentr')",1
+"(u'cover', u'area')",4
+"(u'rate', u'bed')",1
+"(u'.', u'A')",2
+"(u'20:1', u'60')",1
+"(u'wherein', u'measur')",5
+"(u'ratio', u'cover')",2
+"(u'produc', u'air')",1
+"(u'wherein', u'accumul')",1
+"(u'area', u'ratio')",1
+"(u'rate', u'compris')",1
+"(u'7', u',')",1
+"(u'11', u'.')",1
+"(u'A', u'method')",1
+"(u'surfac', u'includ')",1
+"(u'.', u'11')",1
+"(u'fan', u'produc')",1
+"(u'8', u',')",1
+"(u'surfac', u'.')",1
+"(u'includ', u'plural')",2
+"(u'6', u'.')",1
+"(u'cm/', u'measur')",5
+"(u'rate', u'25.40')",6
+"(u'.', u'5')",1
+"(u'The', u'method')",8
+"(u',', u'wherein')",14
+"(u'concentr', u'portion')",1
+"(u'rang', u'20:1')",1
+"(u';', u'1')",1
+"(u'ventil', u'sleep')",7
+"(u';', u'wherein')",1
+"(u'rate', u'concentr')",1
+"(u'flow', u'air')",5
+"(u'wherebi', u'air')",1
+"(u'.', u'13')",1
+"(u'hole', u';')",1
+"(u'55.88', u'cm/')",2
+"(u'plural', u'hole')",3
+"(u'compris', u'measur')",1
+"(u'6', u',')",1
+"(u'cm/', u'30.48')",2
+"(u'porou', u'sleep')",5
+"(u'.', u'7')",1
+"(u';', u'fan')",1
+"(u'.', u'8')",1
+"(u'hole', u'therein')",2
+"(u'measur', u'meter')",5
+"(u'flow', u'rate')",4
+"(u'surfac', u'air')",1
+"(u'wherein', u'flow')",5
+"(u'bed', u'dispos')",1
+"(u'airflow', u'porou')",1
+"(u',', u'said')",1
+"(u'air', u'concentr')",1
+"(u'produc', u'flow')",5
+"(u'system', u'includ')",1
+"(u'method', u'compris')",1
+"(u'claim', u'2')",1
+"(u',', u'method')",1
+"(u'hole', u'suffici')",5
+"(u'air', u'.')",1
+"(u'claim', u'13')",1
+"(u'(', u'effect')",1
+"(u'measur', u'airflow')",8
+"(u'effect', u'dissip')",1
+"(u'CO', u'2')",1
+"(u'.', u'12')",1
+"(u'rate', u'least')",1
+"(u'accord', u'claim')",13
+"(u'cover', u'portion')",1
+"(u'airflow', u'rate')",7
+"(u'10.20', u'cm/')",3
+"(u'2', u',')",1
+"(u'system', u'accord')",5
+"(u'~~', u'1')",1
+"(u'air', u'accumul')",1
+"(u'accumul', u'portion')",2
+"(u'claim', u'12')",1
+"(u'4', u'.')",1
+"(u'cm/', u'.')",4
+"(u'claim', u'14')",1
+"(u'cover', u',')",1
+"(u'A', u'ventil')",1
+"(u'50.80', u'cm/')",2
+"(u'14', u'.')",1
+"(u'.', u'3')",1
+"(u'13', u'.')",1
+"(u'flow', u'said')",1
+"(u'60:1', u'.')",1
+"(u'cover', u'includ')",1
+"(u'area', u',')",2
+"(u'system', u',')",1
+"(u'sleep', u'surfac')",12
+"(u'claim', u'1')",4
+"(u'14', u',')",1
+"(u'9', u'.')",1
+"(u'2', u'.')",2
+"(u'cm/', u'55.88')",2
+"(u'.', u'14')",1
+"(u'60', u';')",1
+"(u'40:1', u'.')",2
+"(u'area', u'concentr')",1
+"(u'concentr', u';')",1
+"(u'suffici', u'produc')",5
+"(u'claim', u'6')",1
+"(u'.', u'4')",1
+"(u',', u'wherebi')",1
+"(u'13', u',')",1
+"(u'method', u'accord')",8
+"(u'air', u'hole')",5
+"(u'wherein', u'porou')",1
+"(u'claim', u'7')",1
+"(u'therein', u';')",1
+"(u'said', u'plural')",1
+"(u'10', u'.')",1
+"(u'cross-sect', u'area')",4
+"(u'claim', u'10')",2
+"(u'surfac', u';')",1
+"(u'meter', u'accumul')",1
+"(u'.', u'6')",1
+"(u';', u'measur')",1
+"(u'15', u'.')",1
+"(u'25.40', u'cm/')",6
+"(u'surfac', u'system')",7
+"(u'late', u'10.20')",1
+"(u'accumul', u'cover')",2
+"(u'wherein', u'ratio')",3
+"(u'concentr', u'cross-sect')",2
+"(u'area', u'20:1')",1
+"(u'ratio', u'40:1')",2
+"(u'.', u'10')",1
+"(u'area', u'cross-sect')",1
+"(u'30.48', u'cm/')",2
+"(u'flow', u'(')",1
+"(u'The', u'ventil')",5
+"(u'.', u'9')",1
+"(u'method', u'measur')",1
+"(u'includ', u'porou')",1
+"(u'dispos', u'porou')",1
+"(u'portion', u'air')",3
+"(u'meter', u'.')",4
+"(u'least', u'10.20')",1
+"(u'.', u'15')",1
+"(u'1', u',')",5
+"(u'accumul', u'accumul')",1
+"(u'area', u'rang')",1
+"(u'portion', u'porou')",1
+"(u'12', u',')",1
+"(u'3', u'.')",1
+"(u'10', u',')",2
+"(u'7', u'.')",1
+"(u'cm/', u'50.80')",2
+"(u'flow', u'late')",1
+"(u'.', u'2')",1
+"(u'flow', u'porou')",1
+"(u'air', u'flow')",3
+"(u'said', u'porou')",1
+"(u'compris', u':')",1
+"(u'porou', u'cover')",2
+"(u'area', u'tire')",1
+"(u':', u'cover')",1
+"(u'tire', u'cross-sect')",1
+"(u'concentr', u'accumul')",1
+"(u'20:1', u'60:1')",1
+"(u'.', u'The')",13
+"(u'1', u'.')",1
+"(u'8', u'.')",1
+"(u'surfac', u'ventil')",1
+"(u'5', u'.')",1
+"(u'dissip', u'CO')",1
+"(u',', u'concentr')",1
+"(u'airflow', u'porou', u'sleep')",1
+"(u'fan', u'produc', u'air')",1
+"(u'10', u',', u'wherein')",2
+"(u'50.80', u'cm/', u'measur')",1
+"(u'.', u'The', u'ventil')",5
+"(u'4', u'.', u'The')",1
+"(u'20:1', u'60:1', u'.')",1
+"(u'cm/', u'.', u'7')",1
+"(u'accord', u'claim', u'14')",1
+"(u'said', u'plural', u'hole')",1
+"(u'A', u'ventil', u'sleep')",1
+"(u'produc', u'flow', u'late')",1
+"(u'The', u'ventil', u'sleep')",5
+"(u'cover', u'area', u',')",1
+"(u'portion', u'porou', u'sleep')",1
+"(u'said', u'porou', u'cover')",1
+"(u'.', u'7', u'.')",1
+"(u'cross-sect', u'area', u'ratio')",1
+"(u'wherein', u'ratio', u'cover')",1
+"(u'10', u'.', u'A')",1
+"(u'cross-sect', u'area', u'rang')",1
+"(u'flow', u'(', u'effect')",1
+"(u'surfac', u'system', u'includ')",1
+"(u'14', u',', u'wherein')",1
+"(u'accord', u'claim', u'13')",1
+"(u'cm/', u'.', u'9')",1
+"(u'accord', u'claim', u'7')",1
+"(u'surfac', u'includ', u'plural')",1
+"(u'flow', u'porou', u'sleep')",1
+"(u'airflow', u'rate', u'compris')",1
+"(u'8', u',', u'wherein')",1
+"(u'13', u',', u'wherein')",1
+"(u'.', u'6', u'.')",1
+"(u'air', u'flow', u'said')",1
+"(u'airflow', u'rate', u'concentr')",1
+"(u',', u'concentr', u'cross-sect')",1
+"(u'area', u'cross-sect', u'area')",1
+"(u'.', u'A', u'ventil')",1
+"(u'rang', u'20:1', u'60:1')",1
+"(u'suffici', u'produc', u'flow')",5
+"(u'1', u',', u'wherebi')",1
+"(u'cm/', u'measur', u'meter')",5
+"(u'surfac', u'.', u'5')",1
+"(u'bed', u'dispos', u'porou')",1
+"(u'concentr', u';', u'measur')",1
+"(u'rate', u'25.40', u'cm/')",6
+"(u'25.40', u'cm/', u'30.48')",2
+"(u'measur', u'airflow', u'porou')",1
+"(u'(', u'effect', u'dissip')",1
+"(u'2', u',', u'wherein')",1
+"(u'7', u',', u'wherein')",1
+"(u'surfac', u'system', u'accord')",5
+"(u'.', u'12', u'.')",1
+"(u'area', u',', u'wherein')",1
+"(u';', u'concentr', u'accumul')",1
+"(u'.', u'3', u'.')",1
+"(u'12', u'.', u'The')",1
+"(u'surfac', u'air', u'accumul')",1
+"(u'porou', u'cover', u',')",1
+"(u'porou', u'sleep', u'surfac')",5
+"(u'2', u'.', u'The')",1
+"(u'method', u'measur', u'airflow')",1
+"(u'accord', u'claim', u'12')",1
+"(u'.', u'A', u'method')",1
+"(u'40:1', u'.', u'12')",1
+"(u'cross-sect', u'area', u'20:1')",1
+"(u'.', u'15', u'.')",1
+"(u'wherein', u'ratio', u'40:1')",2
+"(u'airflow', u'rate', u'25.40')",3
+"(u',', u'wherein', u'ratio')",3
+"(u'hole', u'therein', u'.')",1
+"(u'ratio', u'cover', u'area')",2
+"(u'air', u'flow', u'porou')",1
+"(u'measur', u'airflow', u'rate')",7
+"(u'cm/', u'55.88', u'cm/')",2
+"(u'method', u'compris', u':')",1
+"(u'.', u'2', u'.')",1
+"(u'7', u'.', u'The')",1
+"(u'flow', u'rate', u'25.40')",3
+"(u'50.80', u'cm/', u'.')",1
+"(u'2', u'.', u'11')",1
+"(u'accumul', u'accumul', u'portion')",1
+"(u'15', u'.', u'The')",1
+"(u'accord', u'claim', u'8')",1
+"(u'compris', u':', u'cover')",1
+"(u'rate', u'bed', u'dispos')",1
+"(u'rate', u'concentr', u'portion')",1
+"(u',', u'wherein', u'porou')",1
+"(u'meter', u'accumul', u'cover')",1
+"(u'plural', u'hole', u'therein')",2
+"(u'hole', u'therein', u';')",1
+"(u'concentr', u'portion', u'air')",1
+"(u'1', u',', u'wherein')",4
+"(u'.', u'13', u'.')",1
+"(u'late', u'10.20', u'cm/')",1
+"(u'claim', u'8', u',')",1
+"(u'claim', u'12', u',')",1
+"(u'area', u'20:1', u'60')",1
+"(u'air', u'hole', u'suffici')",5
+"(u'produc', u'air', u'flow')",1
+"(u'wherein', u'porou', u'sleep')",1
+"(u'porou', u'cover', u'includ')",1
+"(u'20:1', u'60', u';')",1
+"(u'airflow', u'rate', u'10.20')",1
+"(u'10.20', u'cm/', u'measur')",1
+"(u'60:1', u'.', u'3')",1
+"(u'ventil', u'sleep', u'surfac')",7
+"(u'cm/', u'.', u'8')",1
+"(u',', u'said', u'porou')",1
+"(u';', u'wherein', u'flow')",1
+"(u'.', u'14', u'.')",1
+"(u'11', u'.', u'The')",1
+"(u'meter', u'.', u'14')",1
+"(u'sleep', u'surfac', u'air')",1
+"(u'14', u'.', u'The')",1
+"(u'effect', u'dissip', u'CO')",1
+"(u'surfac', u'system', u',')",1
+"(u'rate', u'compris', u'measur')",1
+"(u'measur', u'meter', u'.')",4
+"(u'flow', u'said', u'plural')",1
+"(u'55.88', u'cm/', u'.')",1
+"(u'accumul', u'portion', u'air')",2
+"(u'airflow', u'rate', u'bed')",1
+"(u'.', u'The', u'method')",8
+"(u'8', u'.', u'The')",1
+"(u'area', u'tire', u'cross-sect')",1
+"(u'concentr', u'cross-sect', u'area')",2
+"(u'includ', u'plural', u'hole')",2
+"(u'claim', u'1', u',')",4
+"(u'.', u'9', u'.')",1
+"(u'1', u'.', u'A')",1
+"(u';', u'1', u',')",1
+"(u'area', u'rang', u'20:1')",1
+"(u'sleep', u'surfac', u'ventil')",1
+"(u'hole', u';', u'wherein')",1
+"(u'10.20', u'cm/', u'55.88')",2
+"(u'air', u'concentr', u';')",1
+"(u'cover', u'area', u'concentr')",1
+"(u',', u'wherein', u'accumul')",1
+"(u'sleep', u'surfac', u'system')",7
+"(u'cover', u'portion', u'porou')",1
+"(u'30.48', u'cm/', u'.')",1
+"(u'6', u'.', u'The')",1
+"(u'compris', u'measur', u'airflow')",1
+"(u'.', u'4', u'.')",1
+"(u'cover', u'area', u'tire')",1
+"(u'cover', u',', u'said')",1
+"(u'sleep', u'surfac', u'.')",1
+"(u'surfac', u'ventil', u'sleep')",1
+"(u'25.40', u'cm/', u'50.80')",2
+"(u'.', u'8', u'.')",1
+"(u'system', u'accord', u'claim')",5
+"(u'13', u'.', u'The')",1
+"(u'measur', u'meter', u'accumul')",1
+"(u'.', u'10', u'.')",1
+"(u'therein', u'.', u'6')",1
+"(u'sleep', u'surfac', u';')",1
+"(u'25.40', u'cm/', u'measur')",1
+"(u'CO', u'2', u'.')",1
+"(u'system', u'includ', u'porou')",1
+"(u'cm/', u'50.80', u'cm/')",2
+"(u'rate', u'least', u'10.20')",1
+"(u'cross-sect', u'area', u',')",1
+"(u'sleep', u'surfac', u'includ')",1
+"(u'accord', u'claim', u'1')",4
+"(u'meter', u'.', u'15')",1
+"(u'cover', u'area', u'cross-sect')",1
+"(u'ratio', u'40:1', u'.')",2
+"(u',', u'method', u'compris')",1
+"(u',', u'wherein', u'measur')",5
+"(u';', u'measur', u'airflow')",1
+"(u'includ', u'porou', u'cover')",1
+"(u'surfac', u';', u'concentr')",1
+"(u'The', u'method', u'accord')",8
+"(u'plural', u'hole', u';')",1
+"(u'~~', u'1', u'.')",1
+"(u'rate', u'10.20', u'cm/')",1
+"(u'12', u',', u'wherein')",1
+"(u'air', u'accumul', u'accumul')",1
+"(u'portion', u'air', u'concentr')",1
+"(u'cm/', u'.', u'10')",1
+"(u'A', u'method', u'measur')",1
+"(u'claim', u'2', u',')",1
+"(u'60', u';', u'1')",1
+"(u'flow', u'air', u'hole')",5
+"(u'meter', u'.', u'13')",1
+"(u'claim', u'13', u',')",1
+"(u'portion', u'air', u'flow')",1
+"(u'least', u'10.20', u'cm/')",1
+"(u'area', u',', u'concentr')",1
+"(u'claim', u'14', u',')",1
+"(u'.', u'11', u'.')",1
+"(u'6', u',', u'wherein')",1
+"(u';', u'fan', u'produc')",1
+"(u',', u'wherein', u'flow')",4
+"(u'dissip', u'CO', u'2')",1
+"(u'method', u'accord', u'claim')",8
+"(u'wherein', u'measur', u'airflow')",5
+"(u'55.88', u'cm/', u'measur')",1
+"(u'produc', u'flow', u'rate')",4
+"(u'3', u'.', u'The')",1
+"(u',', u'wherebi', u'air')",1
+"(u'accord', u'claim', u'10')",2
+"(u'claim', u'7', u',')",1
+"(u'9', u'.', u'The')",1
+"(u'hole', u'suffici', u'produc')",5
+"(u'accord', u'claim', u'6')",1
+"(u'5', u'.', u'The')",1
+"(u'wherein', u'flow', u'air')",5
+"(u'cover', u'includ', u'plural')",1
+"(u'flow', u'rate', u'least')",1
+"(u'accumul', u'cover', u'area')",2
+"(u'wherein', u'accumul', u'cover')",1
+"(u'dispos', u'porou', u'sleep')",1
+"(u'area', u'concentr', u'cross-sect')",1
+"(u'flow', u'late', u'10.20')",1
+"(u'.', u'5', u'.')",1
+"(u'therein', u';', u'fan')",1
+"(u'40:1', u'.', u'4')",1
+"(u'concentr', u'accumul', u'portion')",1
+"(u'claim', u'6', u',')",1
+"(u'cm/', u'30.48', u'cm/')",2
+"(u'25.40', u'cm/', u'.')",1
+"(u'accord', u'claim', u'2')",1
+"(u'area', u'ratio', u'cover')",1
+"(u'wherebi', u'air', u'flow')",1
+"(u'30.48', u'cm/', u'measur')",1
+"(u'claim', u'10', u',')",2
+"(u'system', u',', u'method')",1
+"(u'air', u'flow', u'(')",1
+"(u'air', u'.', u'2')",1
+"(u'portion', u'air', u'.')",1
+"(u':', u'cover', u'portion')",1
+"(u'tire', u'cross-sect', u'area')",1
